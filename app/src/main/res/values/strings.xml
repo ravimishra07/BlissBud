@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlissBud</string>
+    <string name="title_activity_on_boarding">OnBoardingActivity</string>
+</resources>
